@@ -1,2 +1,2 @@
 # Write your solution here
-cuurent_time = Time.now.to_i
+cuurent_time = Time.now
